@@ -1,0 +1,7 @@
+Introducing: Browza
+
+What is it?
+    Browza will detect and use any browsers you have on your machine in selenium tests.
+
+Why is it useful?
+    Write a test one time, and run it on whatever platform/browser you want.
