@@ -5,3 +5,5 @@ What is it?
 
 Why is it useful?
     Write a test one time, and run it on whatever platform/browser you want.
+
+* Currently only working for Mac, with Safari, Firefox and Chrome. Updates coming soon.
